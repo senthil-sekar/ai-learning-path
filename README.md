@@ -1,6 +1,5 @@
 # AI Engineer Learning Path
 
-## Why I Created This
 I've been a software engineer for quite some time now, and like many of us in the industry, I realised that AI isn't just a buzzword anymore - it's becoming essential. So I put together this learning roadmap for myself (and anyone else in a similar boat) to make this transition systematically.
 
 The idea is simple: we already know how to code, we understand software architecture, and we've shipped production systems. Now we just need to bridge the gap to AI/ML. This isn't about starting from scratch - it's about building on what we already know.
