@@ -16,13 +16,13 @@ Honestly, this is the part most of us dread - going back to maths! But trust me,
   - Calculus (derivatives, gradients - how models learn)
   - Probability & Statistics (the backbone of ML predictions)
   
-  **📺 Videos That Actually Make Sense:**
+  **Videos That Actually Make Sense:**
   - [3Blue1Brown - Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   - [3Blue1Brown - Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
   - [StatQuest - Statistics Fundamentals](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
   - [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
   
-  **📄 Articles:**
+  **Articles:**
   - [Mathematics for Machine Learning Book (Free PDF)](https://mml-book.github.io/)
   - [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
 
@@ -32,12 +32,12 @@ Honestly, this is the part most of us dread - going back to maths! But trust me,
   - Model evaluation metrics (precision, recall, F1, AUC) - how to know if your model is rubbish or not
   - Overfitting, underfitting, cross-validation - common pitfalls we all face
   
-  **📺 Videos Worth Your Time:**
+  **Videos Worth Your Time:**
   - [Andrew Ng's Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
   - [StatQuest - Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
   - [Sentdex - Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
   
-  **📄 Reading Material:**
+  **Reading Material:**
   - [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
   - [ML.NET Documentation](https://learn.microsoft.com/en-us/dotnet/machine-learning/)
   - [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
@@ -52,13 +52,13 @@ Most AI research, tutorials, and libraries are Python-first. Think of it as addi
   - Jupyter Notebooks - interactive coding, great for experimentation
   - Virtual environments (venv, conda) - package management sorted
   
-  **📺 Videos I Found Helpful:**
+  **Videos I Found Helpful:**
   - [Corey Schafer - Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
   - [freeCodeCamp - Python for Data Science](https://www.youtube.com/watch?v=LHBE6Q9XlzI)
   - [NumPy Tutorial - Keith Galli](https://www.youtube.com/watch?v=QUT1VHiLmmI)
   - [Pandas Tutorial - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
   
-  **📄 Articles & Docs:**
+  **Articles & Docs:**
   - [RealPython](https://realpython.com/)
   - [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
   - [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
@@ -69,12 +69,12 @@ Most AI research, tutorials, and libraries are Python-first. Think of it as addi
   - TorchSharp - PyTorch but in C#, pretty neat
   - Semantic Kernel - this is the real deal for building AI apps
   
-  **📺 Videos:**
+  **Videos:**
   - [ML.NET Tutorial - Microsoft](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oX-DBuRG4u58ZTAJgBAeQ-t)
   - [.NET AI with Semantic Kernel](https://www.youtube.com/watch?v=S7Mz7uXAn9E)
   - [TorchSharp Getting Started](https://www.youtube.com/watch?v=nbIE-F7sCxM)
   
-  **📄 Documentation:**
+  **Documentation:**
   - [ML.NET Docs](https://learn.microsoft.com/en-us/dotnet/machine-learning/)
   - [Semantic Kernel Docs](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
   - [ONNX Runtime for .NET](https://onnxruntime.ai/docs/get-started/with-csharp.html)
@@ -92,13 +92,13 @@ This is where it gets exciting. Neural networks, deep learning - the stuff that 
   - Loss functions and optimizers - guiding the learning process
   - Regularisation techniques (dropout, batch norm) - preventing overfitting
   
-  **📺 Must-Watch Videos:**
+  **Must-Watch Videos:**
   - [3Blue1Brown - Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
   - [Andrej Karpathy - Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
   - [StatQuest - Neural Networks](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
   - [Deep Learning Fundamentals - deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
   
-  **📄 Reading:**
+  **Reading:**
   - [Neural Networks and Deep Learning (Free Book)](http://neuralnetworksanddeeplearning.com/)
   - [CS231n Course Notes (Stanford)](https://cs231n.github.io/)
   - [Colah's Blog](https://colah.github.io/)
@@ -109,13 +109,13 @@ This is where it gets exciting. Neural networks, deep learning - the stuff that 
   - Recurrent Neural Networks (RNNs, LSTMs) - for sequential data
   - Attention mechanisms - the foundation of modern AI, this changed everything
   
-  **📺 University-Level Content (Free!):**
+  **University-Level Content (Free!):**
   - [MIT 6.S191 - Intro to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
   - [Stanford CS231n - CNNs for Visual Recognition](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   - [Stanford CS224n - NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   - [Attention Mechanism Explained - Rasa](https://www.youtube.com/watch?v=yGTUuEx3GkA)
   
-  **📄 Articles That Clicked for Me:**
+  **Articles That Clicked for Me:**
   - [Understanding LSTMs - Colah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   - [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
   - [CNN Explainer - Interactive](https://poloclub.github.io/cnn-explainer/)
@@ -129,13 +129,13 @@ You'll need to pick at least one. My recommendation? Start with PyTorch - it's m
   - Building custom models - where you get creative
   - Training loops and evaluation - the practical bits
   
-  **📺 Video Resources:**
+  **Video Resources:**
   - [PyTorch Official Tutorials](https://pytorch.org/tutorials/)
   - [freeCodeCamp - PyTorch for Deep Learning](https://www.youtube.com/watch?v=V_xro1bcAuI)
   - [Aladdin Persson - PyTorch Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)
   - [Daniel Bourke - Learn PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A)
   
-  **📄 Reading:**
+  **Reading:**
   - [PyTorch 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
   - [Learn PyTorch (Free Book)](https://www.learnpytorch.io/)
   - [PyTorch Lightning Docs](https://lightning.ai/docs/pytorch/stable/)
@@ -144,12 +144,12 @@ You'll need to pick at least one. My recommendation? Start with PyTorch - it's m
   - Keras APIs - Sequential and Functional
   - TensorFlow Serving - for deployment
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [TensorFlow in 10 Hours - freeCodeCamp](https://www.youtube.com/watch?v=tPYj3fFJGjk)
   - [Keras with TensorFlow - Deeplizard](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
   - [TensorFlow Developer Certificate Prep](https://www.youtube.com/watch?v=tPYj3fFJGjk)
   
-  **📄 Articles:**
+  **Articles:**
   - [TensorFlow Official Tutorials](https://www.tensorflow.org/tutorials)
   - [Keras Documentation](https://keras.io/guides/)
 
@@ -158,11 +158,11 @@ You'll need to pick at least one. My recommendation? Start with PyTorch - it's m
   - ONNX model inference in .NET
   - ML.NET deep learning integrations
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [TorchSharp Tutorial - .NET Foundation](https://www.youtube.com/watch?v=gHRDnEb8mEw)
   - [ONNX Runtime in .NET](https://www.youtube.com/watch?v=yVbKxqslAIA)
   
-  **📄 Articles:**
+  **Articles:**
   - [TorchSharp GitHub Examples](https://github.com/dotnet/TorchSharp)
   - [ONNX Runtime C# API](https://onnxruntime.ai/docs/api/csharp/api/index.html)
   - [Deep Learning with ML.NET](https://learn.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/train-machine-learning-model-ml-net)
@@ -179,13 +179,13 @@ This is where things get really interesting. LLMs are what's driving the current
   - Word embeddings (Word2Vec, GloVe) - representing words as numbers
   - Sequence-to-sequence models - the precursor to modern LLMs
   
-  **📺 Videos:**
+  **Videos:**
   - [Stanford CS224n - NLP with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
   - [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
   - [NLP Zero to Hero - TensorFlow](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S)
   - [Word Embeddings Explained - Luis Serrano](https://www.youtube.com/watch?v=5PL0TmQhItY)
   
-  **📄 Reading:**
+  **Reading:**
   - [The Illustrated Word2Vec - Jay Alammar](https://jalammar.github.io/illustrated-word2vec/)
   - [Speech and Language Processing (Free Book)](https://web.stanford.edu/~jurafsky/slp3/)
   - [spaCy 101](https://spacy.io/usage/spacy-101)
@@ -196,13 +196,13 @@ This is where things get really interesting. LLMs are what's driving the current
   - Positional encoding - how transformers understand sequence order
   - Encoder-decoder architecture - the original transformer design
   
-  **📺 Videos That Made It Click:**
+  **Videos That Made It Click:**
   - [Attention Is All You Need - Yannic Kilcher](https://www.youtube.com/watch?v=iDulhoQ2pro)
   - [Transformer Neural Networks - CodeEmporium](https://www.youtube.com/watch?v=TQQlZhbC5ps)
   - [Let's Build GPT - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
   - [Transformers Explained - StatQuest](https://www.youtube.com/watch?v=zxQyTK8quyY)
   
-  **📄 Must-Read Articles:**
+  **Must-Read Articles:**
   - [The Illustrated Transformer - Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
   - [The Illustrated GPT-2 - Jay Alammar](https://jalammar.github.io/illustrated-gpt2/)
   - [Attention? Attention! - Lil'Log](https://lilianweng.github.io/posts/2018-06-24-attention/)
@@ -214,13 +214,13 @@ This is where things get really interesting. LLMs are what's driving the current
   - Scaling laws and emergent capabilities - why bigger sometimes means smarter
   - Context windows and tokenisation - practical limitations you'll encounter
   
-  **📺 Videos:**
+  **Videos:**
   - [Andrej Karpathy - Intro to LLMs (1hr talk)](https://www.youtube.com/watch?v=zjkBMFhNj_g)
   - [State of GPT - Andrej Karpathy](https://www.youtube.com/watch?v=bZQun8Y4L2A)
   - [Large Language Models - MIT](https://www.youtube.com/watch?v=O5xeyoRL95U)
   - [BERT Explained - CodeEmporium](https://www.youtube.com/watch?v=xI0HHN5XKDo)
   
-  **📄 Reading:**
+  **Reading:**
   - [The Illustrated GPT-2 - Jay Alammar](https://jalammar.github.io/illustrated-gpt2/)
   - [BERT Explained - Jay Alammar](https://jalammar.github.io/illustrated-bert/)
   - [LLM Survey Paper](https://arxiv.org/abs/2303.18223)
@@ -233,13 +233,13 @@ This is where things get really interesting. LLMs are what's driving the current
   - Google Gemini API - solid alternative
   - Local models (Ollama, LM Studio) - run LLMs on your machine, no API costs!
   
-  **📺 Videos:**
+  **Videos:**
   - [OpenAI API Tutorial - freeCodeCamp](https://www.youtube.com/watch?v=uRQH2CFvedY)
   - [Azure OpenAI Service - Microsoft](https://www.youtube.com/watch?v=3t3qZu1Dy1k)
   - [Ollama Tutorial - NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
   - [Claude API Tutorial - Anthropic](https://www.youtube.com/watch?v=fANzjK0gqMo)
   
-  **📄 Documentation:**
+  **Documentation:**
   - [OpenAI API Docs](https://platform.openai.com/docs/introduction)
   - [Azure OpenAI Quickstart](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart)
   - [Anthropic Claude Docs](https://docs.anthropic.com/)
@@ -256,13 +256,13 @@ This is a skill in itself. Good prompts can make average models perform brillian
   - Structured outputs (JSON mode) - getting predictable formats
   - System prompts and personas - setting context and behaviour
   
-  **📺 Videos:**
+  **Videos:**
   - [ChatGPT Prompt Engineering - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
   - [Advanced Prompt Engineering - Elvis Saravia](https://www.youtube.com/watch?v=dOxUroR57xs)
   - [Chain of Thought Prompting Explained](https://www.youtube.com/watch?v=H4J59iG3t5o)
   - [Prompt Engineering Full Course - freeCodeCamp](https://www.youtube.com/watch?v=mBYu5NoXBcs)
   
-  **📄 Reading:**
+  **Reading:**
   - [Prompt Engineering Guide](https://www.promptingguide.ai/)
   - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
   - [Anthropic Prompt Engineering](https://docs.anthropic.com/claude/docs/prompt-engineering)
@@ -284,13 +284,13 @@ If you're coming from .NET, Semantic Kernel is your best friend. Microsoft built
   - Memory and embeddings - giving your app context
   - Connectors (OpenAI, Azure, Hugging Face) - plug and play with different providers
   
-  **📺 Videos:**
+  **Videos:**
   - [Semantic Kernel Explained - Microsoft](https://www.youtube.com/watch?v=S7Mz7uXAn9E)
   - [Building AI Apps with Semantic Kernel](https://www.youtube.com/watch?v=F2sM2MagViY)
   - [Semantic Kernel Deep Dive - John Maeda](https://www.youtube.com/watch?v=rHg7Wh8jJi8)
   - [.NET AI Apps - Scott Hanselman](https://www.youtube.com/watch?v=R3qhJqt8pYI)
   
-  **📄 Documentation:**
+  **Documentation:**
   - [Semantic Kernel Docs](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
   - [Semantic Kernel Samples](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples)
   - [Quickstart Guide](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide)
@@ -319,13 +319,13 @@ RAG is probably the most practical AI pattern you'll implement. It lets you give
   - Pinecone, Weaviate, Qdrant - popular managed options
   - Chroma, FAISS - for local development and testing
   
-  **📺 Videos:**
+  **Videos:**
   - [RAG Explained - IBM Technology](https://www.youtube.com/watch?v=T-D1OfcDW1M)
   - [Vector Databases Explained - Fireship](https://www.youtube.com/watch?v=klTvEwg3oJ4)
   - [Building RAG Applications - DeepLearning.AI](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
   - [Pinecone RAG Tutorial](https://www.youtube.com/watch?v=LhnCsygAvzY)
   
-  **📄 Reading:**
+  **Reading:**
   - [RAG Survey Paper](https://arxiv.org/abs/2312.10997)
   - [Azure AI Search Docs](https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search)
   - [Pinecone Learning Centre](https://www.pinecone.io/learn/)
@@ -337,12 +337,12 @@ RAG is probably the most practical AI pattern you'll implement. It lets you give
   - Hybrid search (keyword + semantic) - best of both worlds
   - Re-ranking and filtering - improving result quality
   
-  **📺 Videos:**
+  **Videos:**
   - [Advanced RAG Techniques - LangChain](https://www.youtube.com/watch?v=sVcwVQRHIc8)
   - [RAG from Scratch - LangChain](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
   - [Semantic Kernel RAG Tutorial](https://www.youtube.com/watch?v=z1x2E7bsMyk)
   
-  **📄 Reading:**
+  **Reading:**
   - [Chunking Strategies for RAG](https://www.pinecone.io/learn/chunking-strategies/)
   - [LangChain RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/)
   - [RAG with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/concepts/vector-store-connectors/)
@@ -369,13 +369,13 @@ This is the frontier right now. Agents can use tools, reason about problems, and
   - Multi-agent systems - multiple AI agents working together
   - Planning and task decomposition - breaking complex problems down
   
-  **📺 Videos:**
+  **Videos:**
   - [Building AI Agents - DeepLearning.AI](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
   - [What are AI Agents? - IBM Technology](https://www.youtube.com/watch?v=F8NKVhkZZWI)
   - [Multi-Agent Systems - DeepLearning.AI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
   - [Function Calling Explained - Sam Witteveen](https://www.youtube.com/watch?v=0lOSvOoF2to)
   
-  **📄 Reading:**
+  **Reading:**
   - [LLM Powered Autonomous Agents - Lil'Log](https://lilianweng.github.io/posts/2023-06-23-agent/)
   - [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
   - [Building LLM Agents - LangChain](https://python.langchain.com/docs/tutorials/agents/)
@@ -386,12 +386,12 @@ This is the frontier right now. Agents can use tools, reason about problems, and
   - AutoGen for .NET - Multi-agent framework
   - Custom agent implementations - when you need full control
   
-  **📺 Videos:**
+  **Videos:**
   - [AutoGen Tutorial - Microsoft](https://www.youtube.com/watch?v=vU2S6dVf79M)
   - [Multi-Agent AI with AutoGen](https://www.youtube.com/watch?v=RLwyXRVvlNk)
   - [Building Agents with Semantic Kernel](https://www.youtube.com/watch?v=rH02LD89T-8)
   
-  **📄 Documentation:**
+  **Documentation:**
   - [AutoGen Docs](https://microsoft.github.io/autogen/)
   - [Azure AI Agent Service](https://learn.microsoft.com/en-us/azure/ai-services/agents/)
   - [Semantic Kernel Agents](https://learn.microsoft.com/en-us/semantic-kernel/concepts/agents)
@@ -419,13 +419,13 @@ As software engineers, we know that building is one thing - running in productio
   - Prompt tuning - softer approach to customisation
   - RLHF basics - how ChatGPT became so helpful
   
-  **📺 Videos:**
+  **Videos:**
   - [Fine-tuning LLMs - DeepLearning.AI](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)
   - [LoRA Explained - Umar Jamil](https://www.youtube.com/watch?v=PXWYUTMt-AU)
   - [QLoRA Fine-tuning Tutorial](https://www.youtube.com/watch?v=eeM6V5aPjhk)
   - [RLHF Explained - Hugging Face](https://www.youtube.com/watch?v=2MBJi6q2JZQ)
   
-  **📄 Reading:**
+  **Reading:**
   - [Hugging Face PEFT Docs](https://huggingface.co/docs/peft/index)
   - [Fine-tuning Guide - Hugging Face](https://huggingface.co/docs/transformers/training)
   - [LoRA Paper](https://arxiv.org/abs/2106.09685)
@@ -437,12 +437,12 @@ As software engineers, we know that building is one thing - running in productio
   - Azure Machine Learning - Microsoft's ML platform
   - Weights & Biases - experiment tracking (genuinely useful)
   
-  **📺 Videos:**
+  **Videos:**
   - [Azure Machine Learning Tutorial](https://www.youtube.com/watch?v=VQ2PnPGIk4Q)
   - [Weights & Biases Tutorial](https://www.youtube.com/watch?v=G7GH0SeNBMA)
   - [Distributed Training - PyTorch](https://www.youtube.com/watch?v=Cvdhwx-OBBo)
   
-  **📄 Documentation:**
+  **Documentation:**
   - [Azure ML Docs](https://learn.microsoft.com/en-us/azure/machine-learning/)
   - [Weights & Biases Quickstart](https://docs.wandb.ai/quickstart)
   - [Distributed Training Guide - PyTorch](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html)
@@ -454,13 +454,13 @@ As software engineers, we know that building is one thing - running in productio
   - Containerisation (Docker) - we know this already
   - Kubernetes for scaling - again, familiar territory
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [ML Model Deployment - Krish Naik](https://www.youtube.com/watch?v=bjsJOl8gz5k)
   - [Docker for ML - freeCodeCamp](https://www.youtube.com/watch?v=0UG2x2iAF7E)
   - [TorchServe Tutorial](https://www.youtube.com/watch?v=AIaRXJuMT7U)
   - [ONNX Runtime Deployment](https://www.youtube.com/watch?v=NBL2rXYa_-g)
   
-  **📄 Articles:**
+  **Articles:**
   - [ML Deployment Guide - Made With ML](https://madewithml.com/courses/mlops/deployment/)
   - [TorchServe Documentation](https://pytorch.org/serve/)
   - [ONNX Runtime Performance](https://onnxruntime.ai/docs/performance/tune-performance/)
@@ -471,12 +471,12 @@ As software engineers, we know that building is one thing - running in productio
   - Azure AI Foundry
   - Azure Cognitive Services
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [Azure AI Services Overview - Microsoft](https://www.youtube.com/watch?v=q18sGLnKXd0)
   - [Azure ML Endpoints Tutorial](https://www.youtube.com/watch?v=0b2g-Wl4JDE)
   - [Azure AI Foundry (AI Studio)](https://www.youtube.com/watch?v=qm3Mv7j4a-0)
   
-  **📄 Articles:**
+  **Articles:**
   - [Azure AI Services Documentation](https://learn.microsoft.com/en-us/azure/ai-services/)
   - [Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
   - [Azure AI Foundry Documentation](https://learn.microsoft.com/en-us/azure/ai-studio/)
@@ -491,13 +491,13 @@ This is where your software engineering experience becomes a superpower. CI/CD, 
   - Model monitoring and drift detection - models degrade over time
   - A/B testing for models - which version performs better?
   
-  **📺 Videos:**
+  **Videos:**
   - [MLOps Course - Made With ML](https://madewithml.com/)
   - [MLflow Tutorial - Databricks](https://www.youtube.com/watch?v=859OxXrt_TI)
   - [DVC Tutorial - Iterative](https://www.youtube.com/watch?v=kLKBcPonMYw)
   - [ML Testing - Google](https://www.youtube.com/watch?v=9uAEqVmPfqQ)
   
-  **📄 Reading:**
+  **Reading:**
   - [MLOps Guide - Google](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
   - [MLflow Docs](https://mlflow.org/docs/latest/index.html)
   - [DVC Docs](https://dvc.org/doc)
@@ -531,13 +531,13 @@ AI isn't just about text anymore. Images, audio, video - everything's coming tog
   - CLIP and image embeddings - connecting images and text
   - Document AI and OCR - extracting text from documents
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [Multimodal LLMs Explained - AI Jason](https://www.youtube.com/watch?v=vMteSfKCVrc)
   - [CLIP Explained - Yannic Kilcher](https://www.youtube.com/watch?v=T9XSU0pKX2E)
   - [GPT-4 Vision Tutorial](https://www.youtube.com/watch?v=PuBOT8YLdEs)
   - [Document AI with Azure](https://www.youtube.com/watch?v=vP0r7v4CMu8)
   
-  **📄 Articles:**
+  **Articles:**
   - [CLIP Paper - OpenAI](https://openai.com/research/clip)
   - [GPT-4 Vision Guide](https://platform.openai.com/docs/guides/vision)
   - [Azure Document Intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/)
@@ -548,12 +548,12 @@ AI isn't just about text anymore. Images, audio, video - everything's coming tog
   - Text-to-speech
   - Audio processing
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [OpenAI Whisper Tutorial - Assembly AI](https://www.youtube.com/watch?v=s0P3K7D8VbA)
   - [Azure Speech Services](https://www.youtube.com/watch?v=qsNKx-5cQNY)
   - [Audio ML with Python](https://www.youtube.com/watch?v=iCwMQJnKk2c)
   
-  **📄 Articles:**
+  **Articles:**
   - [Whisper Paper - OpenAI](https://openai.com/research/whisper)
   - [Azure Speech Service Docs](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/)
   - [Speech-to-Text Best Practices](https://cloud.google.com/speech-to-text/docs/best-practices)
@@ -565,13 +565,13 @@ AI isn't just about text anymore. Images, audio, video - everything's coming tog
   - Jailbreak prevention
   - Output validation
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [AI Safety Course - Center for AI Safety](https://course.mlsafety.org/)
   - [Prompt Injection Explained - OWASP](https://www.youtube.com/watch?v=PDX9Tf0E84k)
   - [LLM Security - DeepLearning.AI](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
   - [AI Red Teaming - Microsoft](https://www.youtube.com/watch?v=0Ix0LXjEq1A)
   
-  **📄 Articles:**
+  **Articles:**
   - [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
   - [Prompt Injection Guide - Simon Willison](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/)
   - [Azure Content Safety](https://learn.microsoft.com/en-us/azure/ai-services/content-safety/)
@@ -582,13 +582,13 @@ AI isn't just about text anymore. Images, audio, video - everything's coming tog
   - Explainability (SHAP, LIME)
   - Privacy and data protection
   
-  **📺 Video Tutorials:**
+  **Video Tutorials:**
   - [Responsible AI - Microsoft](https://www.youtube.com/watch?v=dnC8-uUZXSc)
   - [AI Ethics Course - fast.ai](https://ethics.fast.ai/)
   - [SHAP Values Explained - StatQuest](https://www.youtube.com/watch?v=N3LT0aG0LGU)
   - [Fairness in ML - Google](https://www.youtube.com/watch?v=59bMh59JQDo)
   
-  **📄 Articles:**
+  **Articles:**
   - [Microsoft Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai)
   - [SHAP Documentation](https://shap.readthedocs.io/en/latest/)
   - [AI Fairness 360 - IBM](https://aif360.mybluemix.net/)
@@ -604,13 +604,13 @@ The field moves fast. Really fast. You need to keep up.
   - Retrieval-augmented fine-tuning - combining RAG with fine-tuning
   - Agentic workflows - the next frontier
   
-  **📺 YouTube Channels to Subscribe:**
+  **YouTube Channels to Subscribe:**
   - [Mixture of Experts Explained - Yannic Kilcher](https://www.youtube.com/watch?v=mwO6v4BlgZQ)
   - [Mamba Explained - Umar Jamil](https://www.youtube.com/watch?v=9dSkvxS2EB0)
   - [Two Minute Papers](https://www.youtube.com/@TwoMinutePapers)
   - [AI Explained](https://www.youtube.com/@aiexplained-official)
   
-  **📄 Blogs to Follow:**
+  **Blogs to Follow:**
   - [Lil'Log - Lilian Weng](https://lilianweng.github.io/)
   - [The Batch - DeepLearning.AI](https://www.deeplearning.ai/the-batch/)
   - [Papers With Code](https://paperswithcode.com/sota)
@@ -660,7 +660,7 @@ This is where your experience as a staff engineer comes in. Technical leadership
 
 Right, here's the honest list. Not everything - just the stuff that's genuinely helpful.
 
-### 📚 Books Worth Your Money
+### Books Worth Your Money
 | Title | Author | Focus Area | Link |
 |-------|--------|------------|------|
 | Designing Machine Learning Systems | Chip Huyen | MLOps | [O'Reilly](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) |
@@ -669,7 +669,7 @@ Right, here's the honest list. Not everything - just the stuff that's genuinely 
 | Hands-On Machine Learning (3rd Ed) | Aurélien Géron | Practical ML | [O'Reilly](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) |
 | Build a Large Language Model (From Scratch) | Sebastian Raschka | LLMs | [Manning](https://www.manning.com/books/build-a-large-language-model-from-scratch) |
 
-### 🎓 Online Courses (Highly Recommended)
+### Online Courses (Highly Recommended)
 | Course | Platform | Duration | Link |
 |--------|----------|----------|------|
 | Machine Learning Specialization | Coursera (Andrew Ng) | 3 months | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) |
@@ -680,7 +680,7 @@ Right, here's the honest list. Not everything - just the stuff that's genuinely 
 | Full Stack LLM Bootcamp | FSDL | Self-paced | [FSDL](https://fullstackdeeplearning.com/) FREE |
 | Azure AI Engineer Associate | Microsoft Learn | Self-paced | [MS Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) |
 
-### 🎬 YouTube Channels I Follow Religiously
+### YouTube Channels I Follow Religiously
 | Channel | Focus | Why I Like Them |
 |---------|-------|-----------------|
 | [3Blue1Brown](https://www.youtube.com/@3blue1brown) | Maths Visuals | Makes maths beautiful, genuinely |
@@ -691,7 +691,7 @@ Right, here's the honest list. Not everything - just the stuff that's genuinely 
 | [Sam Witteveen](https://www.youtube.com/@samwitteveenai) | Applied AI | Practical implementations |
 | [DeepLearning.AI](https://www.youtube.com/@Deeplearningai) | Courses | Andrew Ng's team |
 
-### 📰 Newsletters & Blogs (How I Stay Updated)
+### Newsletters & Blogs (How I Stay Updated)
 | Resource | Frequency | My Take |
 |----------|-----------|---------|  
 | The Batch (DeepLearning.AI) | Weekly | Curated by Andrew Ng, never miss this |
@@ -701,7 +701,7 @@ Right, here's the honest list. Not everything - just the stuff that's genuinely 
 | AI Snake Oil | Irregular | Cuts through the hype, important perspective |
 | Simon Willison's Blog | Frequent | Practical LLM insights |
 
-### 🎯 Free Short Courses That Are Actually Free (DeepLearning.AI)
+### Free Short Courses That Are Actually Free (DeepLearning.AI)
 These are brilliant. Each is about an hour, and they don't try to upsell you constantly.
 
 | Course | Duration | What You'll Learn |
@@ -713,7 +713,7 @@ These are brilliant. Each is about an hour, and they don't try to upsell you con
 | [Finetuning LLMs](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) | 1 hour | When and how to fine-tune |
 | [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) | 1 hour | Building AI agents |
 
-### 🏆 Certifications (If Your Organisation Values Them)
+### Certifications (If Your Organisation Values Them)
 Honestly, certifications matter more in some companies than others. But they do help structure your learning.
 
 - [ ] **Azure AI Engineer Associate (AI-102)** - [Exam Guide](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) - Most relevant for .NET folks
@@ -722,7 +722,7 @@ Honestly, certifications matter more in some companies than others. But they do 
 - [ ] **Google Professional ML Engineer** - [Exam Guide](https://cloud.google.com/learn/certification/machine-learning-engineer)
 - [ ] **TensorFlow Developer Certificate** - [Exam Guide](https://www.tensorflow.org/certificate) - Shows practical skills
 
-### 🌐 Communities (Where the Conversations Happen)
+### Communities (Where the Conversations Happen)
 - [Hugging Face](https://huggingface.co/) - Models, datasets, great community
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Research discussions, sometimes heated debates
 - [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) - Running LLMs locally, very active
@@ -737,7 +737,7 @@ Honestly, certifications matter more in some companies than others. But they do 
 
 The best way to learn is to build. Here are some project ideas, roughly in order of difficulty.
 
-### 🟢 Beginner Projects (Start Here)
+### Beginner Projects (Start Here)
 1. **Sentiment Analyser with ML.NET** - Classic first project
    - Tutorial: [ML.NET Sentiment Analysis](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/sentiment-analysis)
    - Video: [Build ML Model in C#](https://www.youtube.com/watch?v=SUhJkrYYgZA)
@@ -749,7 +749,7 @@ The best way to learn is to build. Here are some project ideas, roughly in order
 3. **Image Classifier**
    - Tutorial: [Image Classification with ONNX](https://learn.microsoft.com/en-us/dotnet/machine-learning/tutorials/image-classification-api-transfer-learning)
 
-### 🟡 Intermediate Projects (Once You're Comfortable)
+### Intermediate Projects (Once You're Comfortable)
 4. **Multi-source RAG System**
    - Article: [Advanced RAG Techniques](https://www.pinecone.io/learn/advanced-rag/)
    - Video: [RAG from Scratch](https://www.youtube.com/playlist?list=PLfaIDFEXuae2LXbO1_PKyVJiQ23ZztA0x)
@@ -760,7 +760,7 @@ The best way to learn is to build. Here are some project ideas, roughly in order
 6. **Custom Copilot for Your Domain**
    - Tutorial: [Build Your Own Copilot - Azure](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/custom-copilot)
 
-### 🔴 Advanced Projects (Show Off Time)
+### Advanced Projects (Show Off Time)
 7. **Multi-Agent System**
    - Tutorial: [AutoGen Multi-Agent](https://microsoft.github.io/autogen/docs/tutorial/introduction)
    - Video: [Build Multi-Agent Systems](https://www.youtube.com/watch?v=vU2S6dVf79M)
