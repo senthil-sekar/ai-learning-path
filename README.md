@@ -694,6 +694,7 @@ Right, here's the honest list. Not everything - just the stuff that's genuinely 
 ### Newsletters & Blogs (How I Stay Updated)
 | Resource | Frequency | My Take |
 |----------|-----------|---------|  
+| [AI Weekly](https://aiweekly.co/) | Three times weekly | Ranked signals from influential AI experts and organizations |
 | The Batch (DeepLearning.AI) | Weekly | Curated by Andrew Ng, never miss this |
 | Import AI (Jack Clark) | Weekly | In-depth analysis |
 | Sebastian Raschka's Ahead of AI | Weekly | Excellent research summaries |
